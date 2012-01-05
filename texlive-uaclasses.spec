@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-uaclasses
 Version:	20090105
-Release:	1
+Release:	2
 Summary:	University of Arizona thesis and dissertation format
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uaclasses
