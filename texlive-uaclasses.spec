@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	University of Arizona thesis and dissertation format
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uaclasses
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uaclasses
 License:	PD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uaclasses.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uaclasses.doc.r%{version}.tar.xz
